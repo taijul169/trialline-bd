@@ -905,7 +905,7 @@ ul li {
 	position: relative;
 }
 .single-testimonial p {
-	padding: 0px 64px;
+	padding: 0px 0px;
 }
 
 .client-title::before {
